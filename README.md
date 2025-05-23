@@ -1,0 +1,2 @@
+# Detecting-Malaria-using-deep-learning
+IMPLEMENTATION OF DEEP LEARNING TECHNIQUES TO DETECT MALARIA
